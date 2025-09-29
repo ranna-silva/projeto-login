@@ -66,9 +66,9 @@ div#formulario > p {
 
 form > div.campo {
     background-color: #1A45A1;
-    border: 2px solid #1A45A1;
+    
     display: block;
-    width: 100%;
+    width: 99%;
     height: 40px;
     border-radius: 5px;
     margin: 5px 0px;
@@ -88,13 +88,13 @@ div.campo > span {
 
 div.campo > input {
     background-color: #edece9;
-    font-size: 0.8em;
+    font-size: 0.9em;
     width: calc(100% - 45px);
     height: 100%;
     border: 0px;
     border-radius: 4px;
     padding: 4px;
-    transform: translateY(-9px);
+    transform: translateY(-7px);
 }
 
 div.campo > input:focus-within {
